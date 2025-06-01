@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "LHOST": "text",
+    "LPORTShell": "number",
+    "LPORTServers": "number",
+    "RPORT": "number",
+    "IPKali": "text",
+    "PuertoServers": "number",
+    "PuertoKali": "number"
+  }
+}

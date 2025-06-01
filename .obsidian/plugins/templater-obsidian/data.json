@@ -1,0 +1,68 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": false,
+  "folder_templates": [
+    {
+      "folder": "00.-Templates",
+      "template": ""
+    }
+  ],
+  "enable_file_templates": true,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "00.-Templates/04.- Mix/Flag.md",
+    "00.-Templates/04.- Mix/{machineName}.md",
+    "00.-Templates/01.- Protocols/DNS (53).md",
+    "00.-Templates/01.- Protocols/FTP (21).md",
+    "00.-Templates/01.- Protocols/HTTP - HTPPS (80-443).md",
+    "00.-Templates/01.- Protocols/MSSQL (1433).md",
+    "00.-Templates/01.- Protocols/MYSQL (3306).md",
+    "00.-Templates/01.- Protocols/Nmap.md",
+    "00.-Templates/01.- Protocols/RDP 3389.md",
+    "00.-Templates/01.- Protocols/SMB (139-445).md",
+    "00.-Templates/01.- Protocols/SMTP (25).md",
+    "00.-Templates/01.- Protocols/SNMP (161).md",
+    "00.-Templates/01.- Protocols/SSH (22).md",
+    "00.-Templates/02.-Cracking/Hashcat - AsrepRoast.md",
+    "00.-Templates/02.-Cracking/Hashcat - keepass.md",
+    "00.-Templates/02.-Cracking/Hashcat - kerberoast.md",
+    "00.-Templates/02.-Cracking/Hashcat - NTLM(dcsync).md",
+    "00.-Templates/02.-Cracking/Hashcat - NTLM2.md",
+    "00.-Templates/02.-Cracking/Hashcat - SSH(id_rsa).md",
+    "00.-Templates/02.-Cracking/Hydra - Protocols(SMB,SSH,FTP).md",
+    "00.-Templates/02.-Cracking/John - id_rsa (SSH).md",
+    "00.-Templates/03.-Powershell/Enum - Files (-.txt,-.ini,-.kdbx).md",
+    "00.-Templates/03.-Powershell/EnumAD - Bloodhound.md",
+    "00.-Templates/03.-Powershell/DownloadFile.md",
+    "00.-Templates/04.- Mix/Credentials.md",
+    "00.-Templates/01.- Protocols/RDP - Connect.md",
+    "00.-Templates/04.- Mix/chisel.md",
+    "00.-Templates/04.- Mix/Ligolo.md",
+    "00.-Templates/04.- Mix/Win_venom.md",
+    "00.-Templates/03.-Powershell/EvilWinRM.md",
+    "00.-Templates/03.-Powershell/Rubeus - Abuse + Change Pass + impacket.md",
+    "00.-Templates/04.- Mix/CrackMapexec.md",
+    "00.-Templates/05.- Impacket/SAM-SYSTEM.md",
+    "00.-Templates/03.-Powershell/Add UserAD.md"
+  ],
+  "startup_templates": []
+}

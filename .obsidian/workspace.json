@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "0e8d54e83a31c74e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aeab1285bcf3e13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66511edaddddfb25",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a51137858f38e5aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bf9d67fe29b019b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c073b5160f40d087",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "714610de81c74a1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5a658395413c83b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 351.5
+  },
+  "right": {
+    "id": "5e49782adbca4ceb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b28f8fc9bc0d4dfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d3ee80ee47de04e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Challenges/04.- OSCP A/MS01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MS01"
+            }
+          },
+          {
+            "id": "998f55bdc6a45296",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8e9caa8ac9c47de9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "80276cfcd4ff77c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Challenges/02.- Relia/Relia - VM-13(EXTERNAL).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Relia - VM-13(EXTERNAL)"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "66511edaddddfb25",
+  "lastOpenFiles": [
+    "README.md",
+    "00.-Templates/04.- Mix/Ligolo.md",
+    "00.-Templates/04.- Mix/Win_venom.md",
+    "00.-Templates/05.- Impacket/SAM-SYSTEM  - ShadowCopies.md",
+    "00.-Templates/01.- Protocols/DNS (53).md",
+    "Utilities/Powershell.md",
+    "Utilities/Nmap.md",
+    "Utilities/John The Ripper.md",
+    "Utilities/Cracking Passwords.md",
+    "Utilities/Gobuster - Dibuster.md",
+    "Utilities/Hydra.md",
+    "00.-Templates/04.- Mix/{machineName}.md",
+    "Utilities/Pasted image 20250310135421.png",
+    "Protocols/FTP commands.md",
+    "Untitled.md",
+    "Protocols/DNS commands.md",
+    "Privilege Escalation/Windows Privilege Escalation.md",
+    "Privilege Escalation/Linux Privilege Escalation.md",
+    "Privilege Escalation/Active Directory.md",
+    "Mini Guides/Windows Privilege Escalation.md",
+    "Mini Guides/Linux Privilege Escalation.md",
+    "Mini Guides/Active Directory.md",
+    "Untitled 1.md",
+    "00.-Templates/04.- Mix/chisel.md",
+    "00.-Templates/01.- Protocols/FTP (21).md",
+    "00.-Templates/01.- Protocols/HTTP - HTPPS (80-443).md",
+    "00.-Templates/01.- Protocols/MSSQL (1433).md",
+    "Examen/Pasted image 20250411143036.png",
+    "Examen/Pasted image 20250411142935.png",
+    "Examen/AD/Capturas/Pasted image 20250410173806.png",
+    "Examen/StandAlone_2/Pasted image 20250410115330.png",
+    "Examen/Pasted image 20250411003636.png",
+    "Examen/Pasted image 20250410210702.png",
+    "Examen/StandAlone_1/Pasted image 20250410221706.png",
+    "Examen/StandAlone_1/Pasted image 20250410221610.png",
+    "Examen/AD/Capturas/Pasted image 20250410212708.png",
+    "Examen/TEMPLATE-PACK-1/~$mplate-welcome-letter.doc",
+    "Examen/TEMPLATE-PACK-1/~$mplate-checklist_service-strategy.docx",
+    "Examen/TEMPLATE-PACK-1/~$mplate-checklist_business-deductions.doc",
+    "Examen/TEMPLATE-PACK-1/~$mplate-checklist-customer-service.doc",
+    "Examen/TEMPLATE-PACK-1/~$mplate-development-and-license-agreement.doc",
+    "Examen/TEMPLATE-PACK-1/~$mplate-interview-guide_production-supervisor-or-manager.doc",
+    "Examen/TEMPLATE-PACK-1/~$mplate-job-description.doc",
+    "Examen/TEMPLATE-PACK-1/~$mplate-receipt.doc",
+    "Examen/TEMPLATE-PACK-1/~$mplate-site-rating-form.doc",
+    "Examen/StandAlone_2/TEMPLATE-PACK-1/template-welcome-letter.doc",
+    "Tryhackme/Uso de herramientas/Sin título.canvas"
+  ]
+}
